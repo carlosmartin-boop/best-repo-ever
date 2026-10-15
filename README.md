@@ -1,2 +1,2 @@
 # best-repo-ever
-mi primer cambio con GIT 
+cambio desde la rama 1 
